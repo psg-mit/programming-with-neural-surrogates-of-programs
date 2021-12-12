@@ -1,5 +1,17 @@
 # Programming with Neural Surrogates of Programs
 
+## Citation
+
+```
+@inproceedings{renda2021programming, 
+  title={Programming with Neural Surrogates of Programs}, 
+  author={Renda, Alex and Ding, Yi and Carbin, Michael}, 
+  booktitle={ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward!)}, 
+  doi = {10.1145/3486607.3486748}, 
+  year={2021}, 
+}
+```
+
 ## Dependencies
 
 The codebase has been validated on Debian 10 (Buster) with the following dependencies/versions:
